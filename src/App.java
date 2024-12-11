@@ -7,6 +7,6 @@ public class App {
         }
         System.out.println("Kaixo, nuevo commit M");
         System.out.println("Conflito!");
-        
+        int hola=1;
     }
 }
