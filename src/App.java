@@ -7,6 +7,9 @@ public class App {
         }
         System.out.println("Kaixo, nuevo commit M");
         System.out.println("Conflito!");
-
+        int variable= 5;
+        int variable2= 2;
+        int resultado= variable+variable2;
+        System.out.println(resultado);
     }
 }
