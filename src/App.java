@@ -5,8 +5,6 @@ public class App {
         for (int i=0;i<10;i++){
             System.out.println("bucle por 10");
         }
-        System.out.println("Kaixo, nuevo commit M");
-        System.out.println("Conflito!");
-        int hola=1;
+    
     }
 }
